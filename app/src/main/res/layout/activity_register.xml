@@ -185,6 +185,7 @@
                     android:layout_height="match_parent">
 
                         <TextView
+                            android:id="@+id/btn_after_regis"
                             android:textColor="#FCFDFD"
                             android:background="@color/colorSirihPinang"
                             android:gravity="center"
